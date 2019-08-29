@@ -1,0 +1,22 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-image: url(http://img.ilovegame.co.kr/sssg/common/bt_gameStart_on_01.png);
+
+}
+
+.b1 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.b2 {
+
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+    padding: 1rem;
+}

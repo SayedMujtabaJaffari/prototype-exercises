@@ -1,0 +1,18 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-image: url(https://buidln.clipdealer.com/001/568/967/previews/8--1568967-blue%20computer%20circuit%20board%20background%20loop.jpg);
+
+}
+
+.wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.card {
+    background-color: white;
+    padding: 1rem;
+}
